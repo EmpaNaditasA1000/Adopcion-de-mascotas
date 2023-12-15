@@ -1,7 +1,7 @@
 window.addEventListener("load", () => {
     // Espera 2 segundos
     setTimeout(() => {
-      // Escala la imagen un 20%
+      // Escala la imagen un
       const img = document.querySelector(".img1");
       img.style.transform = "scale(3.5)";
       img.style.transition = "transform 0.3s ease-in-out";
